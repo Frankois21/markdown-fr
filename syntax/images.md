@@ -13,7 +13,13 @@ La différence est la suivante :
 * les crochets doivent être précédés par un point d'exclamation ;
 * ils peuvent contenir un texte alternatif, qui s'affiche quand l'image ne peut être chargée.
 
+
+as you may have noticed, picture for Markdown are really close to links. 
+The only difference is  : 
+- brackets must be preceded by the !
+- brackets may contain alternative text when picture don't appears.
 ---
+
 
 Here's a quiz about markdown images.
 
